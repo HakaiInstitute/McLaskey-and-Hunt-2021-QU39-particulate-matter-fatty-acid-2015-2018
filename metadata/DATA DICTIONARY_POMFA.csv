@@ -1,0 +1,87 @@
+Variable name,Units,Description
+Date,m/d/year,Date of collection
+Volume.filtered_mL,mL,Volume of water filtered to collect sample
+Sample.dryweight_g,grams,Dry weight of sample
+Sample.wetweight_g,grams,Wet weight of sample
+C10.0_PERCENT,proportion,
+C11.0_PERCENT,proportion,
+C12.0_PERCENT,proportion,
+C13.0_PERCENT,proportion,
+C14.0_PERCENT,proportion,
+C14.1_PERCENT,proportion,
+C15.0_PERCENT,proportion,
+C16.0_PERCENT,proportion,
+C16.1n.7_PERCENT,proportion,
+C16.1n.9_PERCENT,proportion,
+C17.0_PERCENT,proportion,
+C18.0_PERCENT,proportion,
+C16.3n.4_PERCENT,proportion,
+C18.1n.7_PERCENT,proportion,
+C18.1n.7t_PERCENT,proportion,
+C18.1n.9c_PERCENT,proportion,
+C18.1n.9t_PERCENT,proportion,
+C18.2n.6c_and_C16.4n.1_PERCENT,proportion,C18:2n-6c and C16:4n-1 cannot be separated 
+C18.2n.6t_PERCENT,proportion,
+C18.3n.3_PERCENT,proportion,
+C18.3n.6_PERCENT,proportion,
+C18.4n.3_PERCENT,proportion,
+C20.0_PERCENT,proportion,
+C20.1n.9_PERCENT,proportion,
+C20.3n.3_PERCENT,proportion,
+C20.4n.6_PERCENT,proportion,
+C20.5n.3_PERCENT,proportion,
+C22.0_PERCENT,proportion,
+C22.1n.9_PERCENT,proportion,
+C22.2n.6_PERCENT,proportion,
+C22.4n.6_PERCENT,proportion,
+C22.5n.3_PERCENT,proportion,
+C22.5n.6._PERCENT,proportion,
+C22.6n.3_PERCENT,proportion,
+C23.0_PERCENT,proportion,
+C24.0_PERCENT,proportion,
+C24.1n.9_PERCENT,proportion,
+C16.2n.4_PERCENT,proportion,
+C20.4n.3_PERCENT,proportion,
+C22.1n.11_PERCENT,proportion,
+TotalFA_ug,ug,Total fatty acids in sample
+Ratio16.1,unitless ratio,ratio of C16:1n-7 / C16:0
+Diatom.Flag,unitless ratio,ratio of (C16:1n-7 + C20:5n-3 + C16:2n-4 + C16:3n-4) / (C22:6n-3 + C18:3n-3 + C18:3n-6 + C18:4n-3)
+DHA.EPA,unitless ratio,ratio of C22:6n-3 / C20:5n-3
+Terr_18.2n6_18.3n3,proportion,proportion of total FA made up of C18:3n-3 and C18:2n-6 (as well as C16:4n-1 which cannot be separated from C18:2n-6)
+River.C22C24,proportion,proportion of total FA made up of C22:0 + C24:0
+Bacteria_15_17,proportion,proportion of total FA made up of C15:0 + C17:0
+Carn18.1N9_n7,unitless ratio,ratio of C18:1n-9 / C18:1n-7
+percent.SFA,proportion,proportion of total FA made up of saturated fatty acids (SFAs)
+percent.MUFA,proportion,proportion of total FA made up of monounsaturated fatty acids
+percent.PUFA,proportion,proportion of total FA made up of polyunsaturated fatty acids (PUFAs)
+PUFA.SFA,unitless ratio,ratio of PUFAs / SFAs
+percent.n3_PUFA,proportion,proportion of total FA made up of omega-3 PUFAs
+percent.n6_PUFA,proportion,proportion of total FA made up of omega-6 PUFAs
+n3.n6,unitless ratio,ratio of all omega-3 FAs / all omega-6 FAs
+EFA.ug.L,ug L-1,"concentration of essential fatty acids (C22:6n-3, C20:5n-3, C20:4n-6, C18:4n-3, C18:3n-3, C18:3n-6)"
+HUFA.ug.L,ug L-1,"concentration of highly unsaturated fatty acids (C22:6n-3, C20:5n-3, C20:4n-6)"
+Prop.EFA,proportion,"proportion of essential fatty acids (C22:6n-3, C20:5n-3, C20:4n-6, C18:4n-3, C18:3n-3, C18:3n-6)"
+Prop.HUFA,proportion,"proportion of highly unsaturated fatty acids (C22:6n-3, C20:5n-3, C20:4n-6)"
+C.N,molar ratio,"ratio of moles of carbon to moles of nitrogen (both measured from same, non-acidified sample)"
+delta15n,per mil (ä),ratio of stable nitrogen isotopes
+delta13c,per mil (ä),ratio of stable carbon isotopes
+POC_ug.L,ug L-1,concentration of particulate organic carbon
+PN_ug.L,ug L-1,concentration of particulate nitrogen
+chl_20um,ug L-1,concentration of >20 um sized Chl a 
+chl_GF.F,ug L-1,concentration of 0.7-3 um sized Chl a 
+chl_3um,ug L-1,concentration of 3-20 um sized Chl a 
+phaeo.chla,unitless ratio,ratio of the concentration of phaeopigments to concentration of Chl a
+NO3,umol L-1,mean nitrate and nitrite at 0 and 5 m
+PO4,umol L-1,mean phosphate at 0 and 5 m
+Si,umol L-1,mean silicate concentration at 0 and 5 m
+SST,¡ C,mean temperature between 4-6 m
+SSS,psu,mean salinity between 4-6 m
+log10.N2,s-2,log10-transformed mean stratification (N2) over the upper 30 m
+Rain2Day,mm,total rainfall over 48 hrs preceding sampling date 
+WindSp2Day,m s-1,mean wind speed over 48 hrs preceding sampling date 
+WindDir2Day,degrees,mean wind direction over 48 hrs preceding sampling date 
+Bacillariophyta,cells L-1,total abundance of phytoplankton classified as bacillariophytes via light microscopy
+Chlorophyta,cells L-1,total abundance of phytoplankton classified as chlorophytes via light microscopy
+Ciliophora,cells L-1,total abundance of phytoplankton classified as ciliates via light microscopy
+Cryptophyta,cells L-1,total abundance of phytoplankton classified as cryptophytes via light microscopy
+Dinoflagellata,cells L-1,total abundance of phytoplankton classified as dinoflagellates via light microscopy

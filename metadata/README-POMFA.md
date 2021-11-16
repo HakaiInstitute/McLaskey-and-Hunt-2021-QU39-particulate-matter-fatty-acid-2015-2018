@@ -1,0 +1,10 @@
+# POMFA QU39 2015-2018 data package
+This data package presents fatty acids of particulate organic matter collected from station QU39 from 2015 to 2018. The first sample collected on March 13, 2015 was done at Hakai Institute station QU24 (50.0300 N, -125.0800 W; 240 m depth) and all subsequent collections were done at the nearby QU39 (50.0307 N -125.099 W; 265 m depth). Water for POM fatty acid analysis was collected from multiple depths and combined for analysis resulting in one measurement per sampling date. To sample POM, 2 L of seawater from 0, 5, 10, 20, and 30 m depth (10 L total) was combined and filtered onto Sterlitech GF/F filters (47 mm) that had been previously combusted at 475 °C for 4 h. Prior to April 8, 2016, four depths were pooled: 2.5 L of seawater from 0, 5, 10, and 30 m. 
+
+Fatty acids follow the notation C20:5n.3 corresponding to eicosapentaenoic acid (EPA), where 20 is the number of carbon atoms, 5 is the number of double bonds, and 3 is the position of the first double bond from the omega end. 
+
+Fatty acids were analyzed at the Fisheries and Oceans Canada (DFO) Pacific Science Enterprise Centre. FAs were converted to fatty acid methyl esters using a direct transesterification method, separated using an Agilent CP-Sil 88 column (50 m, 0.25 mm diameter), and quantified with a gas chromatograph (SCION 436) equipped with a flame ionization detector. 
+
+These data represent all chromatogram peaks attributed to FAs based on external standards (Nu-Chek Prep GLC-37, GLC-463; Cayman Chemical 18:4n-3; Matreya PUFA Mix No. 3) and by comparing reference samples analyzed at another lab (M.T. Brett, University of Washington). Overall, 81.2 ± 0.08% (mean ± sd) of the chromatogram area was identified and attributed to FAs. FAs were quantified based on a known quantity of an internal standard, C19:0, that was added to each sample. For detailed methods see McLaskey et al. in prep. 
+
+For each sampling date, fatty acids are presented as μg of total fatty acids along with the percentage composition, the volume of seawater filtered for the sample, dry weight of the sample and wet weight of sample (g). 
